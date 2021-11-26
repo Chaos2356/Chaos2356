@@ -8,4 +8,4 @@
 
 ### Связаться со мной
 ![TG](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)
-![TG](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=gmail&logoColor=47C5FB)
+![TG](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=gmail&logoColor=#ff2400)
