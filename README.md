@@ -1,6 +1,6 @@
-#### Меня зовут хаос и
-#### я разработчик телеграм ботов и сайтов.
 
+## Я хаос: разработчик телеграм ботов и сайтов.
+---
 ### Языки програмирования и инструмены:
 ![PYTHON](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=#ffa500)
